@@ -1,4 +1,4 @@
-package com.soliva.algasensors.device.management.api.api.config.web;
+package com.soliva.algasensors.device.management.api.config.web;
 
 import io.hypersistence.tsid.TSID;
 import org.springframework.core.convert.converter.Converter;

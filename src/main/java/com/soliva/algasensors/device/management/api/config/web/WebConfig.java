@@ -1,4 +1,4 @@
-package com.soliva.algasensors.device.management.api.api.config.web;
+package com.soliva.algasensors.device.management.api.config.web;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.format.FormatterRegistry;

@@ -1,7 +1,7 @@
-package com.soliva.algasensors.device.management.api.api.controller;
+package com.soliva.algasensors.device.management.api.controller;
 
-import com.soliva.algasensors.device.management.api.api.model.SensorInput;
-import com.soliva.algasensors.device.management.api.api.model.SensorOutput;
+import com.soliva.algasensors.device.management.api.model.SensorInput;
+import com.soliva.algasensors.device.management.api.model.SensorOutput;
 import com.soliva.algasensors.device.management.common.IdGenerator;
 import com.soliva.algasensors.device.management.domain.model.Sensor;
 import com.soliva.algasensors.device.management.domain.model.SensorId;

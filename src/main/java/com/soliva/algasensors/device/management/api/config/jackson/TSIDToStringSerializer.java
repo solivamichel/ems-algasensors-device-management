@@ -1,4 +1,4 @@
-package com.soliva.algasensors.device.management.api.api.config.jackson;
+package com.soliva.algasensors.device.management.api.config.jackson;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.JsonSerializer;

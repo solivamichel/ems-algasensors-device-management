@@ -1,4 +1,4 @@
-package com.soliva.algasensors.device.management.api.api.model;
+package com.soliva.algasensors.device.management.api.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
